@@ -1,0 +1,10 @@
+/* Write your code here. */
+
+.lists {
+  list-style-type: none;
+  margin-left: 10px;
+}
+.btn {
+  border-width: 0px;
+  background-color: white;
+}
